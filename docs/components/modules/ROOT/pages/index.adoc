@@ -6,7 +6,7 @@ The following Apache Camel artifacts are provided:
 == Components
 
 // components: START
-Number of Components: 299 in 237 JAR artifacts (0 deprecated)
+Number of Components: 300 in 238 JAR artifacts (0 deprecated)
 
 [width="100%",cols="4,1,5",options="header"]
 |===
@@ -416,6 +416,8 @@ Number of Components: 299 in 237 JAR artifacts (0 deprecated)
 
 | xref:netty-http-component.adoc[Netty HTTP] (camel-netty-http) | 2.14 | Netty HTTP server and client using the Netty 4.x library.
 
+| xref:nitrite-component.adoc[Nitrite] (camel-nitrite) | 3.0 | Represents a Nitrite endpoint.
+
 | xref:nsq-component.adoc[NSQ] (camel-nsq) | 2.23 | Represents a nsq endpoint.
 
 | xref:olingo2-component.adoc[Olingo2] (camel-olingo2) | 2.14 | Communicates with OData 2.0 services using Apache Olingo.
@@ -762,7 +764,7 @@ Number of Languages: 17 in 11 JAR artifacts (0 deprecated)
 == Miscellaneous Components
 
 // others: START
-Number of Miscellaneous Components: 39 in 39 JAR artifacts (0 deprecated)
+Number of Miscellaneous Components: 38 in 38 JAR artifacts (0 deprecated)
 
 [width="100%",cols="4,1,5",options="header"]
 |===
@@ -775,8 +777,6 @@ Number of Miscellaneous Components: 39 in 39 JAR artifacts (0 deprecated)
 | xref:blueprint.adoc[Blueprint] (camel-blueprint) | 2.4 | Using Camel with OSGi Blueprint
 
 | xref:cdi.adoc[CDI] (camel-cdi) | 2.10 | Using Camel with CDI
-
-| xref:consul.adoc[Consul] (camel-consul) |  | Camel Consul support
 
 | xref:cxf-transport.adoc[CXF Transport] (camel-cxf-transport) | 2.8 | Camel Transport for Apache CXF
 
